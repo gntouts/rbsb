@@ -1,1 +1,1 @@
-# req-bs4-scraping-boilerplate
+# Requests & BeautifulSoup4 Web Scraping Boilerplate
